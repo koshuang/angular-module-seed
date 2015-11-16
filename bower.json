@@ -1,0 +1,33 @@
+{
+  "name": "angular-module-seed",
+  "description": "",
+  "main": "dist/angular-module-seed.js",
+  "authors": [
+    "koshuang@gmail.com"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "angular"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.4.1",
+    "bardjs": "~0.1.8",
+    "angular-mocks": "1.4.1",
+    "lodash": "~3.10.1",
+    "jquery": "~2.1.4",
+    "ui-router": "0.2.13"
+  },
+  "resolutions": {
+    "angular": "1.4.1"
+  },
+  "version": "0.0.1"
+}
